@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Derleme çıktıları
+Debug/
+Release/
+x64/
+Win32/
+bin/
+obj/
+
+# Derlenmiş dosyalar
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.a
